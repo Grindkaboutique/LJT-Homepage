@@ -37,6 +37,12 @@ My research focuses on natural language processing and machine learning.
 - **Research Intern**, Shanghai AI Lab (June 2023 - December 2023)  
   Advisor: Prof. Yu Cheng
 
+## Skills
+
+- Programming Languages: Python, C++, JavaScript
+- Frameworks: PyTorch, TensorFlow, JAX
+- Tools: Git, Docker, LaTeX
+
 ## Publications
 
 ### First Author
